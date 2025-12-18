@@ -10,3 +10,5 @@ ashort = a[0:3]
 print (ashort)
 character1 = a[0]
 print(character1)
+word = "amazing"
+print (word[1: 4])
