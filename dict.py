@@ -6,3 +6,4 @@ marks ={
     "Aarvith": 50,
 }
 print(marks, type(marks))
+print(marks["Aakash"])
