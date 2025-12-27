@@ -10,7 +10,7 @@ def avg ():
     average = (a+b+c)/3
     print(average)
 
-avg()
+avg()# function call
 avg()
 avg()
 avg()
