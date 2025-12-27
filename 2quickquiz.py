@@ -1,5 +1,5 @@
 def goodday():
-    print ("Hello wassup! Aakash ")
+    print ("Hello wassup!")
 
 goodday()# this is function call
 
